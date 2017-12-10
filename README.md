@@ -10,7 +10,7 @@
 
 ▪ The warplane moves in the same direction as the mouse. 
 
-▪ One more point in score for a successful shooting down of an enermy plane. Shooting down of a bee will either gain one more life or double the firepower. 
+▪ Getting 1 more point in score for a successful shooting down of an enermy plane. Shooting down of a bee will either gain 1 more life or double the firepower. 
 
 ▪ Being shot by enemy planes will lose 1 life. 
 
