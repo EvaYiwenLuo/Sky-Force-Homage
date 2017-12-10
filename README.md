@@ -15,5 +15,4 @@
 ▪ Being shot by enemy planes will lose 1 life. 
 
 
-
-<img width="943" alt="screen shot 2017-12-10 at 5 10 04 pm" src="https://user-images.githubusercontent.com/32606080/33809999-0496a120-ddcd-11e7-9f28-e7626742ee49.png">
+<img width="1458" alt="screen shot 2017-12-10 at 6 03 59 pm" src="https://user-images.githubusercontent.com/32606080/33810607-da700b68-ddd4-11e7-861f-8c9bfe27d102.png">
